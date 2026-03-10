@@ -307,5 +307,5 @@ console.log(numeri);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-numeri.push(9, 100);
+numeri[numeri.length - 1] = 100;
 console.log(numeri);
